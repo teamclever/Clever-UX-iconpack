@@ -29,7 +29,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.afollestad.polar"
+        applicationId "com.clever.ux"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.compileSdk
         versionCode versions.publishVersionCode
